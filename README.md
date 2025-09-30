@@ -5,6 +5,16 @@ A classic **Tic-Tac-Toe** game implemented with **HTML, CSS, and JavaScript**. P
 
 ---
 
+## 🎮 Play Tic Tac Toe Game
+
+Ready to Play? Click The Image! 🎮
+<p align="center">
+  <a href="https://alwin-tic-tac-toe.vercel.app/" target="_blank">
+    <img src="Human Tic-Tac-Toe.jpeg" alt="Play Now Button" width="300"/>
+  </a>
+</p>
+
+
 ## 🕹️ Features
 
 - **Two-Player Gameplay**: Play with a friend on the same screen.
