@@ -34,6 +34,6 @@ Ready to Play? Click The Image! 🎮
 
 ## 🚀 Live Demo
 
-[Play Tic-Tac-Toe](https://alwinjosegeorge.github.io/Tic-Tac-Toe/)
+[Play Tic-Tac-Toe](https://alwin-tic-tac-toe.vercel.app/)
 
 ---
