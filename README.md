@@ -1,4 +1,3 @@
-
 # Tic-Tac-Toe
 
 A classic **Tic-Tac-Toe** game implemented with **HTML, CSS, and JavaScript**. Play with a friend locally on the same device with an interactive and responsive design.
